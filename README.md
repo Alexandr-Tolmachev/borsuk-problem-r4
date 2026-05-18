@@ -12,7 +12,7 @@ Alexander Tolmachev, Vsevolod Voronov
 
 #### 🔽 Installation
 
-First, clone the repository and install the required Python libraries. Optionally (but recommended), create a dedicated virtual environment to avoid dependency conflicts:
+First, clone the repository and install the required Python libraries. The project requires Python 3.10 or newer. Optionally (but recommended), create a dedicated virtual environment to avoid dependency conflicts:
 
 ```bash
 git clone https://github.com/Alexandr-Tolmachev/borsuk-problem-r4.git
@@ -110,7 +110,7 @@ If you find our work or code useful, please cite:
 
 ```bibtex
 @article{tolmachev2026borsukR4,
-  title={Breaking a Barrier in the Borsuk Problem: A New Upper Bound for $R^4$},
+  title={Reducing the upper bound for the Borsuk number in $\mathbb{R}^4$ to 8},
   author={Tolmachev, Alexander and Voronov, Vsevolod},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
