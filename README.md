@@ -2,7 +2,7 @@
 Alexander Tolmachev, Vsevolod Voronov
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><b>📄 Paper</b></a>
+  <a href="https://arxiv.org/abs/2605.19068"><b>📄 Paper</b></a>
 </p>
 
 ---
@@ -112,7 +112,7 @@ If you find our work or code useful, please cite:
 @article{tolmachev2026borsukR4,
   title={Reducing the upper bound for the Borsuk number in $\mathbb{R}^4$ to 8},
   author={Tolmachev, Alexander and Voronov, Vsevolod},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2605.19068},
   year={2026}
 }
 ```
