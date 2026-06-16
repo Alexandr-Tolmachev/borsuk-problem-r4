@@ -44,7 +44,7 @@ Running the command `validation.py covers/cover1 -g 17` starts the validation pr
 
 
 #### 🔽 Final verification
-To validate and reproduce the theoretical result from our [paper](https://arxiv.org/abs/xxxx.xxxxx), you should run this procedure for all covers in the corresponding folder (4 items) with $g=17$:
+To validate and reproduce the theoretical result from our [paper](https://arxiv.org/abs/2605.19068), you should run this procedure for all covers in the corresponding folder (4 items) with $g=17$:
 
 ```bash
 python validation.py covers/cover1 -g 17
